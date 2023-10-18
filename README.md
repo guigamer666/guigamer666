@@ -20,13 +20,12 @@ I'm proud to be a part of the Fractal Game Studios team. Currently, I'm juggling
     🟢🟢🟢🟢⚪⚪ - Fairly Skilled
     🔵🔵🔵🔵🔵⚪ - Good Level
     ⭐⭐⭐⭐⭐⭐ - Pro (It's nice to dream)
-
-Programming Languages:
+-->Programming Languages:
 		
-JavaScript 	JavaScript 	🟢🟢🟢⚪⚪⚪
-TypeScript 	TypeScript 	🟢🟢🟢⚪⚪⚪
-C# 	C# 	🟢🟢🟢⚪⚪⚪
-Java 	Java 	🔴⚪⚪⚪⚪⚪
+JavaScript 	JavaScript 🟢🟢🟢⚪⚪⚪
+TypeScript 	TypeScript 🟢🟢🟢⚪⚪⚪
+C# 	C# 🟢🟢🟢⚪⚪⚪
+Java 	Java 🔴⚪⚪⚪⚪⚪
 Frameworks & Libraries:
 		
 Angular 	Angular 	🟢🟢🟢⚪⚪⚪
