@@ -15,8 +15,7 @@ Growing up surrounded by computers and gaming consoles, my enthusiasm for video 
     🟢🟢🟢🟢⚪⚪ - Fairly Skilled
     🔵🔵🔵🔵🔵⚪ - Good Level
     ⭐⭐⭐⭐⭐⭐ - Pro (It's nice to dream)
-  
--->Programming Languages:
+  Programming Languages:
 		 
 JavaScript 	JavaScript 🟢🟢🟢⚪⚪⚪
 TypeScript 	TypeScript 🟢🟢🟢⚪⚪⚪
