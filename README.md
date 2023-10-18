@@ -37,14 +37,7 @@ Databases:
 MongoDB 	MongoDB 	🟢🟢⚪⚪⚪⚪
 MySQL 	MySQL 	🟢🟢🟢⚪⚪⚪
 Firebase 	Firebase 	🟢🟢🟢⚪⚪⚪
-Design & Editing Software:
-		
-Photoshop 	Photoshop 	🔴⚪⚪⚪⚪⚪
-Premiere 	Premiere 	🟢🟢🟢🟢⚪⚪
-After Effects 	After Effects 	🟢🟢🟢🟢⚪⚪
-Adobe XD 	Adobe XD 	🟢🟢🟢⚪⚪⚪
-Adobe Substance Painter 	Adobe Substance Painter 	🟢🟢🟢⚪⚪⚪
-Audio & 3D Modeling Software:
+
 		
 Audacity 	Audacity 	🟢🟢🟢⚪⚪⚪
 Blender 	Blender 	🟡🟡⚪⚪⚪⚪
