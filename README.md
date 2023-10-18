@@ -5,12 +5,7 @@ Welcome to my GitHub profile! I'm a newcomer to the world of programming, but my
 🎮 Hobbies:
 
 Growing up surrounded by computers and gaming consoles, my enthusiasm for video games was inevitable. I've been a gamer since I was a child. Apart from gaming, I'm passionate about technology, watching animes, and reading. I also enjoy setting up game servers with my group of friends. Music holds a special place in my heart, and I play the ukulele!
-📸 Photography:
 
-I have a deep passion for photography and love capturing moments that tell a story. Check out my Gurushots profile to see some of my favorite shots! 🌄📷
-🌱 Current Endeavors:
-
-I'm proud to be a part of the Fractal Game Studios team. Currently, I'm juggling between two programming courses - one in the morning and another in the evening. My ambition is to continue my education over the next few years, aiming to become a competent individual in the industry and broaden my horizons.
 👩‍💻 Skills & Tools:
 🌟 Skill Levels:
 
