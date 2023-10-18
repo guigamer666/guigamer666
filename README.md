@@ -22,7 +22,7 @@ I'm proud to be a part of the Fractal Game Studios team. Currently, I'm juggling
     ⭐⭐⭐⭐⭐⭐ - Pro (It's nice to dream)
   
 -->Programming Languages:
-		
+		 
 JavaScript 	JavaScript 🟢🟢🟢⚪⚪⚪
 TypeScript 	TypeScript 🟢🟢🟢⚪⚪⚪
 C# 	C# 🟢🟢🟢⚪⚪⚪
