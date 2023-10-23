@@ -84,11 +84,53 @@ Web Technologies:
 HTML 	HTML 	🟢🟢🟢🟢⚪⚪
 CSS 	CSS 	🟢🟢🟢⚪⚪⚪
 SASS 	SASS 	🟢🟢🟢⚪⚪⚪
-Databases:
-		
-MongoDB 	MongoDB 	🟢🟢⚪⚪⚪⚪
-MySQL 	MySQL 	🟢🟢🟢⚪⚪⚪
-Firebase 	Firebase 	🟢🟢🟢⚪⚪⚪
+<body>
+
+<h2>Tecnologías web y bases de datos</h2>
+
+<h3>Tecnologías web</h3>
+<table>
+    <tr>
+        <th>Tecnología</th>
+        <th>Valoración</th>
+    </tr>
+    <tr>
+        <td>HTML</td>
+        <td>HTML 🟢🟢🟢🟢⚪⚪</td>
+    </tr>
+    <tr>
+        <td>CSS</td>
+        <td>CSS 🟢🟢🟢⚪⚪⚪</td>
+    </tr>
+    <tr>
+        <td>SASS</td>
+        <td>SASS 🟢🟢🟢⚪⚪⚪</td>
+    </tr>
+</table>
+<html>
+<body>
+<h3>Bases de datos</h3>
+<table>
+    <tr>
+        <th>Base de datos</th>
+        <th>Valoración</th>
+    </tr>
+    <tr>
+        <td>MongoDB</td>
+        <td>MongoDB 🟢🟢⚪⚪⚪⚪</td>
+    </tr>
+    <tr>
+        <td>MySQL</td>
+        <td>MySQL 🟢🟢🟢⚪⚪⚪</td>
+    </tr>
+    <tr>
+        <td>Firebase</td>
+        <td>Firebase 🟢🟢🟢⚪⚪⚪</td>
+    </tr>
+</table>
+
+</body>
+</html>
 
 		
 
