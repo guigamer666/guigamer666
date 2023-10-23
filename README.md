@@ -17,10 +17,54 @@ Growing up surrounded by computers and gaming consoles, my enthusiasm for video 
     ⭐⭐⭐⭐⭐⭐ - Pro (It's nice to dream)
   Programming Languages:
 		 
-JavaScript 	JavaScript 🟢🟢🟢⚪⚪⚪
-TypeScript 	TypeScript 🟢🟢🟢⚪⚪⚪
-C# 	C# 🟢🟢🟢⚪⚪⚪
-Java 	Java 🔴⚪⚪⚪⚪⚪
+<html>
+<head>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 50%;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 8px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Valoración de lenguajes de programación</h2>
+
+<table>
+    <tr>
+        <th>Lenguaje</th>
+        <th>Valoración</th>
+    </tr>
+    <tr>
+        <td>JavaScript</td>
+        <td>JavaScript 🟢🟢🟢⚪⚪⚪</td>
+    </tr>
+    <tr>
+        <td>TypeScript</td>
+        <td>TypeScript 🟢🟢🟢⚪⚪⚪</td>
+    </tr>
+    <tr>
+        <td>C#</td>
+        <td>C# 🟢🟢🟢⚪⚪⚪</td>
+    </tr>
+    <tr>
+        <td>Java</td>
+        <td>Java 🔴⚪⚪⚪⚪⚪</td>
+    </tr>
+</table>
+
+</body>
+</html>
 Frameworks & Libraries:
 		
 Angular 	Angular 	🟢🟢🟢⚪⚪⚪
