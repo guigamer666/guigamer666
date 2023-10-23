@@ -19,22 +19,7 @@ Growing up surrounded by computers and gaming consoles, my enthusiasm for video 
 		 
 <html>
 <head>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 50%;
-        }
-
-        th, td {
-            text-align: left;
-            padding: 8px;
-            border-bottom: 1px solid #ddd;
-        }
-
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
+    
 </head>
 <body>
 
