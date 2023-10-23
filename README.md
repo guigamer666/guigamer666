@@ -79,11 +79,31 @@ Growing up surrounded by computers and gaming consoles, my enthusiasm for video 
 
 </body>
 </html>
-Web Technologies:
-		
-HTML 	HTML 	🟢🟢🟢🟢⚪⚪
-CSS 	CSS 	🟢🟢🟢⚪⚪⚪
-SASS 	SASS 	🟢🟢🟢⚪⚪⚪
+<html>
+<body>
+<h2>Tecnologías web</h2>
+
+<table>
+    <tr>
+        <th>Tecnología</th>
+        <th>Valoración</th>
+    </tr>
+    <tr>
+        <td>HTML</td>
+        <td>HTML 🟢🟢🟢🟢⚪⚪</td>
+    </tr>
+    <tr>
+        <td>CSS</td>
+        <td>CSS 🟢🟢🟢⚪⚪⚪</td>
+    </tr>
+    <tr>
+        <td>SASS</td>
+        <td>SASS 🟢🟢🟢⚪⚪⚪</td>
+    </tr>
+</table>
+
+</body>
+</html>
 <body>
 
 <h2>Tecnologías web y bases de datos</h2>
