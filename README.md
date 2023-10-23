@@ -50,11 +50,35 @@ Growing up surrounded by computers and gaming consoles, my enthusiasm for video 
 
 </body>
 </html>
-Frameworks & Libraries:
-		
-Angular 	Angular 	🟢🟢🟢⚪⚪⚪
-React 	React 	🟡🟡⚪⚪⚪⚪
-Bootstrap 	Bootstrap 	🟢🟢🟢⚪⚪⚪
+<html>
+<body>
+<h2>Frameworks & Libraries</h2>
+
+<table>
+    <tr>
+        <th>Nombre</th>
+        <th>Descripción</th>
+        <th>Valoración</th>
+    </tr>
+    <tr>
+        <td>Angular</td>
+        <td>Framework</td>
+        <td>🟢🟢🟢⚪⚪⚪</td>
+    </tr>
+    <tr>
+        <td>React</td>
+        <td>Library</td>
+        <td>🟡🟡⚪⚪⚪⚪</td>
+    </tr>
+    <tr>
+        <td>Bootstrap</td>
+        <td>Framework</td>
+        <td>🟢🟢🟢⚪⚪⚪</td>
+    </tr>
+</table>
+
+</body>
+</html>
 Web Technologies:
 		
 HTML 	HTML 	🟢🟢🟢🟢⚪⚪
@@ -67,9 +91,7 @@ MySQL 	MySQL 	🟢🟢🟢⚪⚪⚪
 Firebase 	Firebase 	🟢🟢🟢⚪⚪⚪
 
 		
-Audacity 	Audacity 	🟢🟢🟢⚪⚪⚪
-Blender 	Blender 	🟡🟡⚪⚪⚪⚪
-Cinema4D 	Cinema4D 	🟡🟡⚪⚪⚪⚪
+
 
 Visit my social networks:
 
