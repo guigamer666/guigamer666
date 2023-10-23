@@ -15,7 +15,6 @@ Growing up surrounded by computers and gaming consoles, my enthusiasm for video 
     🟢🟢🟢🟢⚪⚪ - Fairly Skilled
     🔵🔵🔵🔵🔵⚪ - Good Level
     ⭐⭐⭐⭐⭐⭐ - Pro (It's nice to dream)
-  Programming Languages:
 		 
 <html>
 <head>
@@ -24,6 +23,7 @@ Growing up surrounded by computers and gaming consoles, my enthusiasm for video 
 <body>
 
 <h2>Valoración de lenguajes de programación</h2>
+  Programming Languages:
 
 <table>
     <tr>
