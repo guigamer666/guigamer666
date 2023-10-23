@@ -79,8 +79,14 @@ Growing up surrounded by computers and gaming consoles, my enthusiasm for video 
 
 </body>
 </html>
+----------------------------------------
+<!DOCTYPE html>
 <html>
+<head>
+  
+</head>
 <body>
+
 <h2>Tecnologías web</h2>
 
 <table>
@@ -104,6 +110,8 @@ Growing up surrounded by computers and gaming consoles, my enthusiasm for video 
 
 </body>
 </html>
+
+-----------------------------------------
 <body>
 
 <h2>Tecnologías web y bases de datos</h2>
