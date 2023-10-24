@@ -1,4 +1,4 @@
-Hello! I'm Guillermo 👋
+Hola soy Guillermo 👋
 
 
 
@@ -159,4 +159,4 @@ Hello! I'm Guillermo 👋
 		
 
 
-This desing is the 3ntr0pia.
+Diseño hecho por 3ntr0pia.
