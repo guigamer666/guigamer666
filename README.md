@@ -159,9 +159,4 @@ Hello! I'm Guillermo 👋
 		
 
 
-Visit my social networks:
-
-Codewars Badge
-
-Thank you for stopping by! Feel free to explore my repositories and connect with me.
 This desing is the 3ntr0pia.
