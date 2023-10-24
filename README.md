@@ -2,15 +2,15 @@ Hola soy Guillermo 👋
 
 
 
-👩‍💻 Skills & Tools:
-🌟 Skill Levels:
+👩‍💻 Habilidades:
+🌟 Nivel de habilidad:
 
-    🔴⚪⚪⚪⚪⚪ - Getting Acquainted
-    🟡🟡⚪⚪⚪⚪ - Beginner
-    🟢🟢🟢⚪⚪⚪ - Novice
-    🟢🟢🟢🟢⚪⚪ - Fairly Skilled
-    🔵🔵🔵🔵🔵⚪ - Good Level
-    ⭐⭐⭐⭐⭐⭐ - Pro (It's nice to dream)
+    🔴⚪⚪⚪⚪⚪ - leve conocimiento
+    🟡🟡⚪⚪⚪⚪ - Principiante
+    🟢🟢🟢⚪⚪⚪ - Novato
+    🟢🟢🟢🟢⚪⚪ - Con experiencia
+    🔵🔵🔵🔵🔵⚪ - Buen nivel
+    ⭐⭐⭐⭐⭐⭐ - Pro
 		 
 <html>
 <head>
@@ -19,8 +19,7 @@ Hola soy Guillermo 👋
 <body>
 
 <h2>Valoración de lenguajes de programación</h2>
-  Programming Languages:
-
+Lenguajes de programacion:
 <table>
     <tr>
         <th>Lenguaje</th>
